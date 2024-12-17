@@ -10,6 +10,7 @@ tor (run this tor service in another terminal)
 #(change tab)
 
 ls
+
 cd Bruteinsta
 
 chmod +x insta.sh
